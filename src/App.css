@@ -43,14 +43,13 @@ div{
   margin-top: 50px;
   color: black;
 }
-form, input{
+#note-input{
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   padding: 10px;
   margin: 10px;
-  
+  margin-left: 200px;
   
 }
 body{

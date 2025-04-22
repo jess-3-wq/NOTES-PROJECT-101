@@ -20,30 +20,7 @@ const NoteForm = () => {
   
   return (
     <div>
-        <form onSubmit={handleAddNote}>
-           
-            <input 
-            type="text"
-            name='Title' 
-            placeholder='Title'
-            value={title} 
-            onChange={(e) => setTiltle(e.target.value)}/>
-
-            <textarea
-             type="text"
-              name='Content'
-               placeholder=' Content' 
-               value={content}
-               onChange={(e) => setContent(e.target.value)}/>
-            
-          
-            <button 
-            onClick={handleAddNote}
-            type='submit'>
-              Add note
-              </button>
-          
-        </form>
+        
     </div>
   )
 }
