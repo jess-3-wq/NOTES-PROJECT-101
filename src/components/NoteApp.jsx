@@ -34,7 +34,9 @@ const NoteApp = () => {
     <div className="note-app">
       <h1>Notes App</h1>
       <div className="note-input">
+
         <input id='note-input'
+
           type="text"
           value={noteText}
           onChange={(e) => setNoteText(e.target.value)}
