@@ -44,3 +44,5 @@ Open a pull request
 Thank you for checking out the Simple Notes App! We hope it helps you stay organized and productive. If you have any questions or feedback, please feel free to reach out!
 
 Feel free to modify any sections as needed!
+
+
