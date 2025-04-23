@@ -55,3 +55,21 @@ div{
 body{
   background-color: burlywood;
 }
+#note-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 200px;
+  
+}
+.notes-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.note-item{
+  align-items: center;
+  justify-content: center;
+  
+}
