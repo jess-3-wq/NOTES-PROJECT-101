@@ -46,4 +46,17 @@ Thank you for checking out the Simple Notes App! We hope it helps you stay organ
 
 Feel free to modify any sections as needed!
 
-THANK YOU!
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
+
+Fork the project
+Create your feature branch **git checkout -b feature/YourFeature**
+Commit your changes **git commit -m 'Add some feature'**
+Push to the branch **git push origin feature/YourFeature**
+Open a pull request
+
+Thank you for checking out the Simple Notes App! We hope it helps you stay organized and productive. If you have any questions or feedback, please feel free to reach out!
+
+Feel free to modify any sections as needed!
+
