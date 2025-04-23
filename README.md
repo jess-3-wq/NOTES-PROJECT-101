@@ -23,11 +23,14 @@ To get started with the Simple Notes App, follow these steps:
 1. Clone the repository:
    ```bash
    git clone git@github.com:jess-3-wq/NOTES-PROJECT-101.git
-2. CD into the folder.   
+2. CD into the folder. 
+   ```bash  
    cd NOTES-PROJECT-101
-3. Open in Vscode.  
+3. Open in Vscode. 
+   ```bash  
    code .
-4. Run in browser.   
+4. Run in browser. 
+   ```bash   
    npm start
 
 ## Contributing
