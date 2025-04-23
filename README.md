@@ -1,4 +1,4 @@
-https://notes-project-101-ruby.vercel.app/
+https://notes-project-101-zeta.vercel.app/
 
 # Simple Notes App
 
